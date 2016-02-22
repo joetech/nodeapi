@@ -1,0 +1,8 @@
+{
+   "user":
+   {
+       "username": "foo",
+       "email": "test@example.com",
+       "pwd": "blah"
+   }
+}
